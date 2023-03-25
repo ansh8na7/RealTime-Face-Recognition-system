@@ -1,5 +1,5 @@
 ##### I have used these versions. Hopefully works on newer ones####
-tensorflow == 2.1.0
+tensorflow == 2.11.1
 tensorflow-addons == 0.9.1
 keras == 2.3.1
 scikit-learn == 0.22.2
